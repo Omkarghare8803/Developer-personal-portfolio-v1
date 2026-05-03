@@ -32,17 +32,17 @@ This is the **first version (v1)** of my portfolio, focused on building a strong
 
 ### 💻 Desktop View
 
-![Desktop Preview](.images/preview.png)
+![Desktop Preview](images/preview.png)
 
 ### 📱 Mobile View
 
-![Mobile Preview](.images/mobile-preview.png)
+![Mobile Preview](images/mobile-preview.png)
 
 ---
 
 ## 🌍 Live Demo
 
-https://your-username.github.io/omkar-ghare-portfolio-v1/
+https://omkarghare8803.github.io/Developer-personal-portfolio-v1/
 
 ---
 
